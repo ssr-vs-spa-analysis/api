@@ -1,5 +1,6 @@
 import "dotenv/config";
 
+import cors from "cors";
 import express, {
   type NextFunction,
   type Request,
@@ -23,6 +24,24 @@ if (!envResult.success) {
 const env = envResult.data;
 const app = express();
 
+const corsOriginsFromEnv = env.CORS_ORIGIN
+  ? env.CORS_ORIGIN.split(",")
+      .map((s) => s.trim())
+      .filter(Boolean)
+  : [];
+const defaultDevOrigins = ["http://localhost:5173", "http://127.0.0.1:5173"];
+const allowedOrigins =
+  corsOriginsFromEnv.length > 0
+    ? corsOriginsFromEnv
+    : env.NODE_ENV === "development"
+      ? defaultDevOrigins
+      : [];
+
+app.use(
+  cors({
+    origin: allowedOrigins.length > 0 ? allowedOrigins : false,
+  }),
+);
 app.use(express.json());
 app.use((req: Request, res: Response, next: NextFunction) => {
   const start = performance.now();

@@ -16,10 +16,24 @@ export const listProductsQuerySchema = z.object({
   offset: z.coerce.number().int().min(0).default(0),
 });
 
+const commaSeparatedQueryList = z.preprocess(
+  (val) => {
+    if (val === undefined || val === null) return undefined;
+    const raw = String(val).trim();
+    if (!raw) return undefined;
+    const parts = raw
+      .split(",")
+      .map((s) => s.trim())
+      .filter((s) => s.length > 0);
+    return parts.length > 0 ? parts : undefined;
+  },
+  z.array(z.string().min(1)).optional(),
+);
+
 export const searchProductsQuerySchema = z
   .object({
-    category: z.string().min(1).optional(),
-    brand: z.string().min(1).optional(),
+    category: commaSeparatedQueryList,
+    brand: commaSeparatedQueryList,
     price_min: z.coerce.number().min(0).optional(),
     price_max: z.coerce.number().min(0).optional(),
     q: z.string().min(1).optional(),

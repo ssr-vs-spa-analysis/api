@@ -89,13 +89,13 @@ productsRouter.get("/search", async (req: Request, res: Response) => {
 productsRouter.get("/:id", async (req: Request, res: Response) => {
   try {
     const params = validateOrThrow(productIdParamSchema, req.params);
-    const product = await getProductById(params.id);
+    const result = await getProductById(params.id);
 
-    if (!product) {
+    if (!result) {
       return res.status(404).json(createApiError("Product not found"));
     }
 
-    return res.status(200).json(product);
+    return res.status(200).json(result);
   } catch (error) {
     if (error instanceof z.ZodError) {
       return res

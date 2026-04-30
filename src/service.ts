@@ -155,7 +155,25 @@ export const searchProducts = async (query: SearchProductsQuery) => {
 };
 
 export const getProductById = async (id: string) => {
-  return db.product.findUnique({
+  const product = await db.product.findUnique({
     where: { id },
   });
+
+  if (!product) {
+    return null;
+  }
+
+  const similarProducts = await db.product.findMany({
+    where: {
+      id: { not: id },
+      category: { equals: product.category, mode: "insensitive" },
+    },
+    orderBy: [{ rating: "desc" }, { createdAt: "desc" }],
+    take: 5,
+  });
+
+  return {
+    product,
+    similarProducts,
+  };
 };

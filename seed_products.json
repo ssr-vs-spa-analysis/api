@@ -3,13 +3,11 @@
     "name": "Razer Mesh System 770",
     "description": "Poboljšana sigurnost i roditeljska kontrola.",
     "price": 17606.76,
-    "quantity": 93,
+    "quantity": 0,
     "category": "Ruteri",
     "brand": "Razer",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/0/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/0/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.2,
@@ -87,9 +85,7 @@
     "category": "Miševi",
     "brand": "ASUS",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/28/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/28/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.94,
@@ -102,13 +98,11 @@
     "name": "Sony 2.1 Sistem 412",
     "description": "Bogat bas i čist zvuk koji ispunjava sobu.",
     "price": 215776.17,
-    "quantity": 64,
+    "quantity": 0,
     "category": "Zvučnici",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/35/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/35/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.72,
@@ -161,7 +155,7 @@
     "name": "TP-Link Vertical Mouse 978",
     "description": "Bežična sloboda sa dugotrajnom baterijom.",
     "price": 154783.49,
-    "quantity": 171,
+    "quantity": 1,
     "category": "Miševi",
     "brand": "TP-Link",
     "rating": 3.8,
@@ -223,7 +217,7 @@
     "name": "Dell DeathAdder 454",
     "description": "Bežična sloboda sa dugotrajnom baterijom.",
     "price": 36859.83,
-    "quantity": 156,
+    "quantity": 5,
     "category": "Miševi",
     "brand": "Dell",
     "rating": 4.8,
@@ -310,9 +304,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/105/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/105/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.42,
@@ -329,9 +321,7 @@
     "category": "Zvučnici",
     "brand": "HP",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/112/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/112/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.56,
@@ -369,9 +359,7 @@
     "category": "Monitori",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/126/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/126/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.48,
@@ -470,9 +458,7 @@
     "category": "Miševi",
     "brand": "Lenovo",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/161/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/161/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.85,
@@ -489,9 +475,7 @@
     "category": "Miševi",
     "brand": "Canon",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/168/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/168/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.74,
@@ -529,9 +513,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/182/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/182/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.27,
@@ -548,9 +530,7 @@
     "category": "Monitori",
     "brand": "Sony",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/189/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/189/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.63,
@@ -588,9 +568,7 @@
     "category": "Monitori",
     "brand": "HP",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/203/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/203/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.84,
@@ -607,9 +585,7 @@
     "category": "Zvučnici",
     "brand": "Canon",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/210/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/210/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.29,
@@ -687,9 +663,7 @@
     "category": "Slušalice",
     "brand": "Logitech",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/238/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/238/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.55,
@@ -748,9 +722,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/259/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/259/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.95,
@@ -850,9 +822,7 @@
     "category": "Ruteri",
     "brand": "Lenovo",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/294/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/294/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.13,
@@ -889,9 +859,7 @@
     "category": "Ruteri",
     "brand": "Samsung",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/308/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/308/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.2,
@@ -969,9 +937,7 @@
     "category": "Laptopovi",
     "brand": "Lenovo",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/336/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/336/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.56,
@@ -1069,9 +1035,7 @@
     "category": "Zvučnici",
     "brand": "ASUS",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/371/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/371/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.84,
@@ -1169,9 +1133,7 @@
     "category": "Eksterni diskovi",
     "brand": "Canon",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/406/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/406/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.83,
@@ -1188,9 +1150,7 @@
     "category": "Zvučnici",
     "brand": "TP-Link",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/413/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/413/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.03,
@@ -1267,9 +1227,7 @@
     "category": "Miševi",
     "brand": "Dell",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/441/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/441/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.42,
@@ -1286,9 +1244,7 @@
     "category": "Eksterni diskovi",
     "brand": "Razer",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/448/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/448/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.77,
@@ -1367,9 +1323,7 @@
     "category": "Eksterni diskovi",
     "brand": "Lenovo",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/476/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/476/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 4.3,
@@ -1386,9 +1340,7 @@
     "category": "Eksterni diskovi",
     "brand": "Lenovo",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/483/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/483/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.66,
@@ -1467,9 +1419,7 @@
     "category": "Tastature",
     "brand": "Logitech",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/511/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/511/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.28,
@@ -1568,9 +1518,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/546/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/546/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.4,
@@ -1607,9 +1555,7 @@
     "category": "Zvučnici",
     "brand": "TP-Link",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/560/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/560/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.49,
@@ -1646,9 +1592,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/574/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/574/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.41,
@@ -1665,9 +1609,7 @@
     "category": "Laptopovi",
     "brand": "TP-Link",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/581/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/581/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.5,
@@ -1766,9 +1708,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/616/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/616/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.22,
@@ -1847,9 +1787,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/644/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/644/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.63,
@@ -1886,9 +1824,7 @@
     "category": "Slušalice",
     "brand": "Canon",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/658/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/658/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.69,
@@ -1905,9 +1841,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/665/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/665/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.22,
@@ -1945,9 +1879,7 @@
     "category": "Slušalice",
     "brand": "Canon",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/679/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/679/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.5,
@@ -2066,9 +1998,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/721/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/721/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.39,
@@ -2126,9 +2056,7 @@
     "category": "Štampači",
     "brand": "TP-Link",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/742/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/742/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.8,
@@ -2145,9 +2073,7 @@
     "category": "Slušalice",
     "brand": "Canon",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/749/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/749/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.49,
@@ -2185,9 +2111,7 @@
     "category": "Ruteri",
     "brand": "ASUS",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/763/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/763/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.47,
@@ -2204,9 +2128,7 @@
     "category": "Eksterni diskovi",
     "brand": "Lenovo",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/770/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/770/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.31,
@@ -2223,9 +2145,7 @@
     "category": "Miševi",
     "brand": "Sony",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/777/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/777/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.19,
@@ -2242,9 +2162,7 @@
     "category": "Monitori",
     "brand": "Razer",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/784/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/784/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.11,
@@ -2323,9 +2241,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/812/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/812/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.84,
@@ -2342,9 +2258,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/819/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/819/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.0,
@@ -2381,9 +2295,7 @@
     "category": "Web kamere",
     "brand": "Lenovo",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/833/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/833/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.46,
@@ -2400,9 +2312,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/840/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/840/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.57,
@@ -2419,9 +2329,7 @@
     "category": "Laptopovi",
     "brand": "HP",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/847/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/847/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.17,
@@ -2541,9 +2449,7 @@
     "category": "Štampači",
     "brand": "ASUS",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/889/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/889/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.45,
@@ -2664,9 +2570,7 @@
     "category": "Štampači",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/931/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/931/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.45,
@@ -2744,9 +2648,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/959/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/959/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.4,
@@ -2763,9 +2665,7 @@
     "category": "Monitori",
     "brand": "Canon",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/966/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/966/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.59,
@@ -2844,9 +2744,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/994/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/994/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.34,
@@ -2904,9 +2802,7 @@
     "category": "Miševi",
     "brand": "Dell",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/1015/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1015/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.19,
@@ -3049,9 +2945,7 @@
     "category": "Tastature",
     "brand": "Dell",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/1064/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1064/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.37,
@@ -3068,9 +2962,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/1071/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1071/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.6,
@@ -3189,9 +3081,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/1113/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1113/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.44,
@@ -3248,9 +3138,7 @@
     "category": "Štampači",
     "brand": "HP",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/1134/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1134/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.34,
@@ -3267,9 +3155,7 @@
     "category": "Monitori",
     "brand": "Lenovo",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/1141/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1141/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.5,
@@ -3286,9 +3172,7 @@
     "category": "Štampači",
     "brand": "Samsung",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/1148/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1148/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.16,
@@ -3305,9 +3189,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/1155/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1155/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.36,
@@ -3324,9 +3206,7 @@
     "category": "Laptopovi",
     "brand": "Sony",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/1162/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1162/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.32,
@@ -3404,9 +3284,7 @@
     "category": "Ruteri",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/1190/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1190/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.24,
@@ -3423,9 +3301,7 @@
     "category": "Laptopovi",
     "brand": "Dell",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1197/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1197/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.61,
@@ -3463,9 +3339,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1211/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1211/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.61,
@@ -3522,9 +3396,7 @@
     "category": "Zvučnici",
     "brand": "Logitech",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1232/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1232/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.79,
@@ -3643,9 +3515,7 @@
     "category": "Miševi",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/1274/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1274/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.57,
@@ -3805,9 +3675,7 @@
     "category": "Slušalice",
     "brand": "Dell",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/1330/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1330/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.11,
@@ -3864,9 +3732,7 @@
     "category": "Štampači",
     "brand": "Dell",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/1351/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1351/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.01,
@@ -3904,9 +3770,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1365/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1365/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.3,
@@ -3964,9 +3828,7 @@
     "category": "Laptopovi",
     "brand": "HP",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/1386/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1386/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.71,
@@ -3983,9 +3845,7 @@
     "category": "Miševi",
     "brand": "Samsung",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/1393/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1393/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.13,
@@ -4044,9 +3904,7 @@
     "category": "Web kamere",
     "brand": "Dell",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1414/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1414/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.76,
@@ -4166,9 +4024,7 @@
     "category": "Tastature",
     "brand": "Sony",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1456/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1456/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.95,
@@ -4185,9 +4041,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/1463/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1463/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.02,
@@ -4225,9 +4079,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/1477/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1477/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.55,
@@ -4265,9 +4117,7 @@
     "category": "Laptopovi",
     "brand": "Razer",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/1491/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1491/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.26,
@@ -4324,9 +4174,7 @@
     "category": "Monitori",
     "brand": "HP",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1512/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1512/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.15,
@@ -4446,9 +4294,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/1554/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1554/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.57,
@@ -4547,9 +4393,7 @@
     "category": "Eksterni diskovi",
     "brand": "Samsung",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/1589/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1589/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.29,
@@ -4729,9 +4573,7 @@
     "category": "Zvučnici",
     "brand": "Dell",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/1652/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1652/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.26,
@@ -4810,9 +4652,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/1680/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1680/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.46,
@@ -4849,9 +4689,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/1694/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1694/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.24,
@@ -4888,9 +4726,7 @@
     "category": "Laptopovi",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/1708/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1708/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.27,
@@ -4907,9 +4743,7 @@
     "category": "Laptopovi",
     "brand": "Razer",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/1715/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1715/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.58,
@@ -5048,9 +4882,7 @@
     "category": "Monitori",
     "brand": "Sony",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/1764/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1764/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.11,
@@ -5231,9 +5063,7 @@
     "category": "Tastature",
     "brand": "ASUS",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/1827/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1827/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.72,
@@ -5291,9 +5121,7 @@
     "category": "Miševi",
     "brand": "Sony",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1848/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1848/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.69,
@@ -5352,9 +5180,7 @@
     "category": "Zvučnici",
     "brand": "ASUS",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/1869/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1869/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.06,
@@ -5391,9 +5217,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/1883/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1883/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.36,
@@ -5410,9 +5234,7 @@
     "category": "Web kamere",
     "brand": "TP-Link",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/1890/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1890/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.55,
@@ -5469,9 +5291,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/1911/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1911/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.2,
@@ -5488,9 +5308,7 @@
     "category": "Zvučnici",
     "brand": "Sony",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/1918/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1918/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.01,
@@ -5507,9 +5325,7 @@
     "category": "Laptopovi",
     "brand": "Razer",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/1925/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1925/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.8,
@@ -5546,9 +5362,7 @@
     "category": "Eksterni diskovi",
     "brand": "Dell",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/1939/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1939/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.31,
@@ -5565,9 +5379,7 @@
     "category": "Web kamere",
     "brand": "Lenovo",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/1946/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1946/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.64,
@@ -5584,9 +5396,7 @@
     "category": "Web kamere",
     "brand": "Lenovo",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/1953/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1953/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.2,
@@ -5644,9 +5454,7 @@
     "category": "Štampači",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/1974/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/1974/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.3,
@@ -5745,9 +5553,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/2009/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2009/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.22,
@@ -5764,9 +5570,7 @@
     "category": "Ruteri",
     "brand": "Lenovo",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/2016/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2016/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.05,
@@ -5844,9 +5648,7 @@
     "category": "Štampači",
     "brand": "ASUS",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/2044/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2044/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.26,
@@ -5924,9 +5726,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/2072/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2072/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.0,
@@ -5943,9 +5743,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/2079/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2079/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.43,
@@ -6107,9 +5905,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/2135/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2135/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.03,
@@ -6207,9 +6003,7 @@
     "category": "Ruteri",
     "brand": "TP-Link",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/2170/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2170/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.45,
@@ -6267,9 +6061,7 @@
     "category": "Monitori",
     "brand": "Razer",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/2191/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2191/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.61,
@@ -6286,9 +6078,7 @@
     "category": "Eksterni diskovi",
     "brand": "Lenovo",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/2198/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2198/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.1,
@@ -6305,9 +6095,7 @@
     "category": "Monitori",
     "brand": "Dell",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/2205/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2205/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.27,
@@ -6529,9 +6317,7 @@
     "category": "Laptopovi",
     "brand": "TP-Link",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/2282/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2282/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 4.41,
@@ -6629,9 +6415,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2317/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2317/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.91,
@@ -6668,9 +6452,7 @@
     "category": "Slušalice",
     "brand": "Dell",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/2331/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2331/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.99,
@@ -6727,9 +6509,7 @@
     "category": "Monitori",
     "brand": "Canon",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/2352/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2352/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.85,
@@ -6932,9 +6712,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/2422/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2422/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.68,
@@ -6992,9 +6770,7 @@
     "category": "Ruteri",
     "brand": "HP",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/2443/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2443/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.22,
@@ -7011,9 +6787,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/2450/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2450/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.05,
@@ -7030,9 +6804,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/2457/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2457/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.39,
@@ -7253,9 +7025,7 @@
     "category": "Laptopovi",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/2534/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2534/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.4,
@@ -7292,9 +7062,7 @@
     "category": "Eksterni diskovi",
     "brand": "Logitech",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/2548/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2548/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.3,
@@ -7352,9 +7120,7 @@
     "category": "Štampači",
     "brand": "ASUS",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2569/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2569/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.76,
@@ -7391,9 +7157,7 @@
     "category": "Web kamere",
     "brand": "Razer",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/2583/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2583/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.44,
@@ -7472,9 +7236,7 @@
     "category": "Štampači",
     "brand": "TP-Link",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/2611/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2611/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.41,
@@ -7491,9 +7253,7 @@
     "category": "Ruteri",
     "brand": "HP",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/2618/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2618/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.87,
@@ -7530,9 +7290,7 @@
     "category": "Štampači",
     "brand": "Samsung",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/2632/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2632/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.46,
@@ -7549,9 +7307,7 @@
     "category": "Web kamere",
     "brand": "Sony",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2639/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2639/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.71,
@@ -7692,9 +7448,7 @@
     "category": "Miševi",
     "brand": "Razer",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/2688/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2688/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.38,
@@ -7752,9 +7506,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2709/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2709/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.81,
@@ -7977,9 +7729,7 @@
     "category": "Web kamere",
     "brand": "Logitech",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/2786/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2786/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.8,
@@ -7996,9 +7746,7 @@
     "category": "Štampači",
     "brand": "Logitech",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/2793/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2793/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.22,
@@ -8096,9 +7844,7 @@
     "category": "Štampači",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/2828/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2828/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.21,
@@ -8155,9 +7901,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2849/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2849/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.75,
@@ -8235,9 +7979,7 @@
     "category": "Web kamere",
     "brand": "Dell",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/2877/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2877/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.66,
@@ -8254,9 +7996,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/2884/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2884/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 4.33,
@@ -8314,9 +8054,7 @@
     "category": "Eksterni diskovi",
     "brand": "HP",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/2905/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2905/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.35,
@@ -8353,9 +8091,7 @@
     "category": "Ruteri",
     "brand": "Samsung",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/2919/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2919/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.16,
@@ -8372,9 +8108,7 @@
     "category": "Zvučnici",
     "brand": "Logitech",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/2926/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2926/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 4.44,
@@ -8391,9 +8125,7 @@
     "category": "Web kamere",
     "brand": "Razer",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/2933/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2933/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.53,
@@ -8552,9 +8284,7 @@
     "category": "Miševi",
     "brand": "Logitech",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/2989/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/2989/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.79,
@@ -8714,9 +8444,7 @@
     "category": "Miševi",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3045/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3045/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.5,
@@ -8733,9 +8461,7 @@
     "category": "Tastature",
     "brand": "Sony",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/3052/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3052/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.55,
@@ -8752,9 +8478,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3059/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3059/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.44,
@@ -8792,9 +8516,7 @@
     "category": "Miševi",
     "brand": "ASUS",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/3073/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3073/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.19,
@@ -8874,9 +8596,7 @@
     "category": "Laptopovi",
     "brand": "Samsung",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3101/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3101/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.24,
@@ -9056,9 +8776,7 @@
     "category": "Monitori",
     "brand": "ASUS",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3164/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3164/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.99,
@@ -9116,9 +8834,7 @@
     "category": "Monitori",
     "brand": "Lenovo",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/3185/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3185/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.1,
@@ -9196,9 +8912,7 @@
     "category": "Monitori",
     "brand": "Razer",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3213/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3213/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.34,
@@ -9215,9 +8929,7 @@
     "category": "Zvučnici",
     "brand": "Razer",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/3220/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3220/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.04,
@@ -9275,9 +8987,7 @@
     "category": "Monitori",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3241/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3241/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.4,
@@ -9315,9 +9025,7 @@
     "category": "Miševi",
     "brand": "ASUS",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/3255/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3255/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.31,
@@ -9334,9 +9042,7 @@
     "category": "Slušalice",
     "brand": "HP",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/3262/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3262/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.56,
@@ -9353,9 +9059,7 @@
     "category": "Tastature",
     "brand": "Logitech",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3269/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3269/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.58,
@@ -9516,9 +9220,7 @@
     "category": "Ruteri",
     "brand": "Razer",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3325/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3325/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.37,
@@ -9576,9 +9278,7 @@
     "category": "Tastature",
     "brand": "HP",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3346/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3346/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.99,
@@ -9678,9 +9378,7 @@
     "category": "Monitori",
     "brand": "Dell",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/3381/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3381/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.08,
@@ -9697,9 +9395,7 @@
     "category": "Laptopovi",
     "brand": "Lenovo",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3388/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3388/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.46,
@@ -9757,9 +9453,7 @@
     "category": "Zvučnici",
     "brand": "ASUS",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3409/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3409/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.67,
@@ -9776,9 +9470,7 @@
     "category": "Slušalice",
     "brand": "Dell",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/3416/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3416/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.16,
@@ -9795,9 +9487,7 @@
     "category": "Miševi",
     "brand": "Canon",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/3423/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3423/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.86,
@@ -9917,9 +9607,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3465/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3465/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.16,
@@ -9977,9 +9665,7 @@
     "category": "Miševi",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3486/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3486/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.95,
@@ -10079,9 +9765,7 @@
     "category": "Slušalice",
     "brand": "Samsung",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3521/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3521/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.1,
@@ -10098,9 +9782,7 @@
     "category": "Štampači",
     "brand": "Canon",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/3528/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3528/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.0,
@@ -10138,9 +9820,7 @@
     "category": "Zvučnici",
     "brand": "Lenovo",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/3542/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3542/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.29,
@@ -10157,9 +9837,7 @@
     "category": "Zvučnici",
     "brand": "HP",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/3549/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3549/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.95,
@@ -10176,9 +9854,7 @@
     "category": "Zvučnici",
     "brand": "Sony",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/3556/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3556/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.7,
@@ -10278,9 +9954,7 @@
     "category": "Tastature",
     "brand": "Sony",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/3591/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3591/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.55,
@@ -10399,9 +10073,7 @@
     "category": "Miševi",
     "brand": "Samsung",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/3633/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3633/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.79,
@@ -10540,9 +10212,7 @@
     "category": "Ruteri",
     "brand": "Samsung",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3682/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3682/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.3,
@@ -10559,9 +10229,7 @@
     "category": "Monitori",
     "brand": "Razer",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3689/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3689/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.21,
@@ -10619,9 +10287,7 @@
     "category": "Tastature",
     "brand": "TP-Link",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/3710/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3710/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.39,
@@ -10638,9 +10304,7 @@
     "category": "Laptopovi",
     "brand": "Lenovo",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/3717/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3717/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.03,
@@ -10657,9 +10321,7 @@
     "category": "Štampači",
     "brand": "ASUS",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/3724/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3724/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.67,
@@ -10696,9 +10358,7 @@
     "category": "Zvučnici",
     "brand": "Logitech",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3738/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3738/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.09,
@@ -10715,9 +10375,7 @@
     "category": "Štampači",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3745/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3745/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.35,
@@ -10754,9 +10412,7 @@
     "category": "Monitori",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/3759/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3759/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.11,
@@ -10814,9 +10470,7 @@
     "category": "Eksterni diskovi",
     "brand": "Canon",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3780/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3780/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.87,
@@ -10853,9 +10507,7 @@
     "category": "Laptopovi",
     "brand": "Razer",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3794/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3794/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.98,
@@ -10872,9 +10524,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3801/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3801/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.52,
@@ -10911,9 +10561,7 @@
     "category": "Ruteri",
     "brand": "HP",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/3815/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3815/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.13,
@@ -10951,9 +10599,7 @@
     "category": "Štampači",
     "brand": "ASUS",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3829/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3829/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.77,
@@ -11052,9 +10698,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/3864/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3864/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.34,
@@ -11071,9 +10715,7 @@
     "category": "Web kamere",
     "brand": "Canon",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3871/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3871/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.18,
@@ -11131,9 +10773,7 @@
     "category": "Web kamere",
     "brand": "Logitech",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/3892/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3892/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.56,
@@ -11150,9 +10790,7 @@
     "category": "Tastature",
     "brand": "TP-Link",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/3899/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3899/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.68,
@@ -11169,9 +10807,7 @@
     "category": "Slušalice",
     "brand": "HP",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/3906/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3906/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.67,
@@ -11334,9 +10970,7 @@
     "category": "Zvučnici",
     "brand": "HP",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/3962/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3962/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.0,
@@ -11353,9 +10987,7 @@
     "category": "Štampači",
     "brand": "HP",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/3969/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/3969/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 4.12,
@@ -11555,9 +11187,7 @@
     "category": "Laptopovi",
     "brand": "Lenovo",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/4039/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4039/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.87,
@@ -11594,9 +11224,7 @@
     "category": "Monitori",
     "brand": "HP",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4053/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4053/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.28,
@@ -11716,9 +11344,7 @@
     "category": "Ruteri",
     "brand": "TP-Link",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/4095/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4095/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.01,
@@ -11797,9 +11423,7 @@
     "category": "Web kamere",
     "brand": "Dell",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4123/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4123/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.44,
@@ -11816,9 +11440,7 @@
     "category": "Eksterni diskovi",
     "brand": "Razer",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/4130/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4130/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.82,
@@ -11876,9 +11498,7 @@
     "category": "Web kamere",
     "brand": "TP-Link",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4151/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4151/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.48,
@@ -11916,9 +11536,7 @@
     "category": "Miševi",
     "brand": "Logitech",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4165/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4165/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.58,
@@ -11935,9 +11553,7 @@
     "category": "Eksterni diskovi",
     "brand": "Canon",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/4172/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4172/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.13,
@@ -11995,9 +11611,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/4193/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4193/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.22,
@@ -12095,9 +11709,7 @@
     "category": "Miševi",
     "brand": "Logitech",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/4228/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4228/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.95,
@@ -12114,9 +11726,7 @@
     "category": "Web kamere",
     "brand": "Lenovo",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/4235/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4235/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.37,
@@ -12133,9 +11743,7 @@
     "category": "Eksterni diskovi",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/4242/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4242/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.63,
@@ -12192,9 +11800,7 @@
     "category": "Monitori",
     "brand": "Lenovo",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/4263/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4263/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.36,
@@ -12231,9 +11837,7 @@
     "category": "Laptopovi",
     "brand": "Sony",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/4277/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4277/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.01,
@@ -12313,9 +11917,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4305/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4305/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.25,
@@ -12332,9 +11934,7 @@
     "category": "Web kamere",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/4312/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4312/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.38,
@@ -12371,9 +11971,7 @@
     "category": "Štampači",
     "brand": "Razer",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/4326/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4326/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.17,
@@ -12451,9 +12049,7 @@
     "category": "Tastature",
     "brand": "Lenovo",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4354/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4354/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.36,
@@ -12532,9 +12128,7 @@
     "category": "Eksterni diskovi",
     "brand": "Logitech",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4382/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4382/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.29,
@@ -12592,9 +12186,7 @@
     "category": "Ruteri",
     "brand": "Dell",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4403/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4403/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.78,
@@ -12611,9 +12203,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4410/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4410/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.78,
@@ -12732,9 +12322,7 @@
     "category": "Miševi",
     "brand": "TP-Link",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4452/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4452/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.65,
@@ -12771,9 +12359,7 @@
     "category": "Eksterni diskovi",
     "brand": "TP-Link",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/4466/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4466/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.11,
@@ -12790,9 +12376,7 @@
     "category": "Tastature",
     "brand": "Lenovo",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4473/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4473/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.96,
@@ -12809,9 +12393,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/4480/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4480/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.26,
@@ -12868,9 +12450,7 @@
     "category": "Monitori",
     "brand": "Lenovo",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/4501/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4501/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.21,
@@ -12968,9 +12548,7 @@
     "category": "Zvučnici",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4536/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4536/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.89,
@@ -13028,9 +12606,7 @@
     "category": "Zvučnici",
     "brand": "Lenovo",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4557/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4557/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.65,
@@ -13131,9 +12707,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/4592/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4592/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.05,
@@ -13170,9 +12744,7 @@
     "category": "Zvučnici",
     "brand": "Logitech",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/4606/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4606/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.85,
@@ -13189,9 +12761,7 @@
     "category": "Štampači",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/4613/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4613/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.46,
@@ -13208,9 +12778,7 @@
     "category": "Monitori",
     "brand": "ASUS",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/4620/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4620/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.45,
@@ -13227,9 +12795,7 @@
     "category": "Laptopovi",
     "brand": "TP-Link",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4627/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4627/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.92,
@@ -13408,9 +12974,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4690/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4690/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.1,
@@ -13532,9 +13096,7 @@
     "category": "Miševi",
     "brand": "Logitech",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4732/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4732/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.27,
@@ -13613,9 +13175,7 @@
     "category": "Laptopovi",
     "brand": "ASUS",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/4760/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4760/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.46,
@@ -13714,9 +13274,7 @@
     "category": "Slušalice",
     "brand": "Dell",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/4795/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4795/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.96,
@@ -13855,9 +13413,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/4844/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4844/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.14,
@@ -13874,9 +13430,7 @@
     "category": "Štampači",
     "brand": "Dell",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/4851/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4851/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.19,
@@ -13893,9 +13447,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/4858/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4858/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.94,
@@ -13933,9 +13485,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/4872/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4872/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.3,
@@ -13952,9 +13502,7 @@
     "category": "Web kamere",
     "brand": "Dell",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/4879/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4879/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.67,
@@ -13971,9 +13519,7 @@
     "category": "Tastature",
     "brand": "Razer",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/4886/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4886/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.85,
@@ -13990,9 +13536,7 @@
     "category": "Slušalice",
     "brand": "Canon",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/4893/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4893/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.56,
@@ -14113,9 +13657,7 @@
     "category": "Web kamere",
     "brand": "TP-Link",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/4935/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4935/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.41,
@@ -14152,9 +13694,7 @@
     "category": "Laptopovi",
     "brand": "Razer",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4949/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4949/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.08,
@@ -14232,9 +13772,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/4977/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4977/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.42,
@@ -14272,9 +13810,7 @@
     "category": "Eksterni diskovi",
     "brand": "Razer",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/4991/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4991/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.88,
@@ -14291,9 +13827,7 @@
     "category": "Eksterni diskovi",
     "brand": "TP-Link",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/4998/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/4998/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.84,
@@ -14371,9 +13905,7 @@
     "category": "Štampači",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5026/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5026/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.46,
@@ -14390,9 +13922,7 @@
     "category": "Eksterni diskovi",
     "brand": "Dell",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5033/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5033/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.86,
@@ -14471,9 +14001,7 @@
     "category": "Miševi",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5061/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5061/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.35,
@@ -14490,9 +14018,7 @@
     "category": "Zvučnici",
     "brand": "TP-Link",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/5068/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5068/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.52,
@@ -14509,9 +14035,7 @@
     "category": "Tastature",
     "brand": "HP",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5075/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5075/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.35,
@@ -14528,9 +14052,7 @@
     "category": "Ruteri",
     "brand": "TP-Link",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5082/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5082/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.45,
@@ -14631,9 +14153,7 @@
     "category": "Laptopovi",
     "brand": "TP-Link",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5117/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5117/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.72,
@@ -14670,9 +14190,7 @@
     "category": "Tastature",
     "brand": "Razer",
     "rating": 3.8,
-    "images": [
-      "https://picsum.photos/seed/5131/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5131/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.54,
@@ -14710,9 +14228,7 @@
     "category": "Web kamere",
     "brand": "Lenovo",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5145/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5145/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.92,
@@ -14771,9 +14287,7 @@
     "category": "Ruteri",
     "brand": "Lenovo",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/5166/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5166/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.69,
@@ -14873,9 +14387,7 @@
     "category": "Eksterni diskovi",
     "brand": "ASUS",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5201/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5201/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.22,
@@ -14933,9 +14445,7 @@
     "category": "Monitori",
     "brand": "ASUS",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5222/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5222/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.46,
@@ -15055,9 +14565,7 @@
     "category": "Štampači",
     "brand": "HP",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5264/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5264/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.26,
@@ -15074,9 +14582,7 @@
     "category": "Tastature",
     "brand": "Logitech",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5271/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5271/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.21,
@@ -15093,9 +14599,7 @@
     "category": "Laptopovi",
     "brand": "HP",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/5278/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5278/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.97,
@@ -15132,9 +14636,7 @@
     "category": "Web kamere",
     "brand": "Canon",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5292/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5292/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.82,
@@ -15212,9 +14714,7 @@
     "category": "Web kamere",
     "brand": "TP-Link",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5320/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5320/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.91,
@@ -15251,9 +14751,7 @@
     "category": "Ruteri",
     "brand": "Canon",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/5334/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5334/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.85,
@@ -15291,9 +14789,7 @@
     "category": "Zvučnici",
     "brand": "Canon",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5348/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5348/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.31,
@@ -15331,9 +14827,7 @@
     "category": "Laptopovi",
     "brand": "Lenovo",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/5362/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5362/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.49,
@@ -15370,9 +14864,7 @@
     "category": "Tastature",
     "brand": "Dell",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5376/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5376/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.13,
@@ -15389,9 +14881,7 @@
     "category": "Web kamere",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5383/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5383/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.09,
@@ -15429,9 +14919,7 @@
     "category": "Monitori",
     "brand": "TP-Link",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/5397/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5397/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.66,
@@ -15468,9 +14956,7 @@
     "category": "Slušalice",
     "brand": "Logitech",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5411/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5411/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.7,
@@ -15712,9 +15198,7 @@
     "category": "Tastature",
     "brand": "HP",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5495/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5495/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.06,
@@ -15752,9 +15236,7 @@
     "category": "Monitori",
     "brand": "Sony",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/5509/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5509/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.68,
@@ -15832,9 +15314,7 @@
     "category": "Eksterni diskovi",
     "brand": "TP-Link",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/5537/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5537/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.6,
@@ -15891,9 +15371,7 @@
     "category": "Laptopovi",
     "brand": "Dell",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/5558/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5558/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.93,
@@ -15950,9 +15428,7 @@
     "category": "Web kamere",
     "brand": "Samsung",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5579/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5579/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.69,
@@ -15969,9 +15445,7 @@
     "category": "Tastature",
     "brand": "HP",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5586/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5586/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.51,
@@ -16008,9 +15482,7 @@
     "category": "Tastature",
     "brand": "Logitech",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/5600/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5600/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.17,
@@ -16027,9 +15499,7 @@
     "category": "Tastature",
     "brand": "Sony",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/5607/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5607/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.51,
@@ -16046,9 +15516,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/5614/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5614/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.79,
@@ -16065,9 +15533,7 @@
     "category": "Laptopovi",
     "brand": "Canon",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/5621/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5621/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.11,
@@ -16084,9 +15550,7 @@
     "category": "Tastature",
     "brand": "TP-Link",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5628/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5628/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.66,
@@ -16123,9 +15587,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/5642/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5642/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 3.23,
@@ -16163,9 +15625,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5656/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5656/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.8,
@@ -16182,9 +15642,7 @@
     "category": "Ruteri",
     "brand": "Samsung",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/5663/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5663/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.52,
@@ -16262,9 +15720,7 @@
     "category": "Monitori",
     "brand": "Lenovo",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5691/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5691/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 4.02,
@@ -16281,9 +15737,7 @@
     "category": "Web kamere",
     "brand": "ASUS",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/5698/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5698/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.44,
@@ -16340,9 +15794,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5719/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5719/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 4.35,
@@ -16400,9 +15852,7 @@
     "category": "Laptopovi",
     "brand": "TP-Link",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/5740/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5740/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.43,
@@ -16419,9 +15869,7 @@
     "category": "Laptopovi",
     "brand": "HP",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/5747/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5747/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.35,
@@ -16560,9 +16008,7 @@
     "category": "Štampači",
     "brand": "Dell",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/5796/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5796/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.43,
@@ -16599,9 +16045,7 @@
     "category": "Monitori",
     "brand": "Canon",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/5810/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5810/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.56,
@@ -16639,9 +16083,7 @@
     "category": "Eksterni diskovi",
     "brand": "Sony",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/5824/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5824/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.93,
@@ -16679,9 +16121,7 @@
     "category": "Zvučnici",
     "brand": "Dell",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5838/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5838/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.14,
@@ -16698,9 +16138,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5845/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5845/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.91,
@@ -16758,9 +16196,7 @@
     "category": "Ruteri",
     "brand": "Logitech",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/5866/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5866/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.23,
@@ -16777,9 +16213,7 @@
     "category": "Web kamere",
     "brand": "ASUS",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/5873/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5873/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.55,
@@ -16817,9 +16251,7 @@
     "category": "Miševi",
     "brand": "Canon",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/5887/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5887/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.76,
@@ -16836,9 +16268,7 @@
     "category": "Laptopovi",
     "brand": "Logitech",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/5894/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5894/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.91,
@@ -16936,9 +16366,7 @@
     "category": "Laptopovi",
     "brand": "Canon",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/5929/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5929/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.19,
@@ -17038,9 +16466,7 @@
     "category": "Eksterni diskovi",
     "brand": "Logitech",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/5964/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5964/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.18,
@@ -17119,9 +16545,7 @@
     "category": "Tastature",
     "brand": "ASUS",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/5992/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/5992/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.05,
@@ -17262,9 +16686,7 @@
     "category": "Miševi",
     "brand": "Logitech",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/6041/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6041/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.16,
@@ -17301,9 +16723,7 @@
     "category": "Miševi",
     "brand": "HP",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/6055/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6055/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.97,
@@ -17341,9 +16761,7 @@
     "category": "Štampači",
     "brand": "Canon",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6069/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6069/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.93,
@@ -17421,9 +16839,7 @@
     "category": "Eksterni diskovi",
     "brand": "HP",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6097/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6097/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.22,
@@ -17440,9 +16856,7 @@
     "category": "Zvučnici",
     "brand": "Samsung",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/6104/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6104/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 3.47,
@@ -17480,9 +16894,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/6118/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6118/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.25,
@@ -17519,9 +16931,7 @@
     "category": "Zvučnici",
     "brand": "Canon",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6132/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6132/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.56,
@@ -17578,9 +16988,7 @@
     "category": "Slušalice",
     "brand": "Razer",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/6153/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6153/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 0.93,
@@ -17680,9 +17088,7 @@
     "category": "Ruteri",
     "brand": "Logitech",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6188/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6188/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.79,
@@ -17740,9 +17146,7 @@
     "category": "Laptopovi",
     "brand": "HP",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6209/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6209/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 3.5,
@@ -17861,9 +17265,7 @@
     "category": "Monitori",
     "brand": "Samsung",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6251/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6251/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.62,
@@ -17880,9 +17282,7 @@
     "category": "Web kamere",
     "brand": "HP",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6258/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6258/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 4.16,
@@ -17959,9 +17359,7 @@
     "category": "Štampači",
     "brand": "Canon",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6286/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6286/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.33,
@@ -18040,9 +17438,7 @@
     "category": "Web kamere",
     "brand": "Sony",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/6314/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6314/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 2.01,
@@ -18080,9 +17476,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/6328/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6328/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 4.46,
@@ -18140,9 +17534,7 @@
     "category": "Slušalice",
     "brand": "Lenovo",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6349/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6349/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 1.15,
@@ -18384,9 +17776,7 @@
     "category": "Slušalice",
     "brand": "TP-Link",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/6433/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6433/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.47,
@@ -18424,9 +17814,7 @@
     "category": "Zvučnici",
     "brand": "Razer",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/6447/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6447/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.45,
@@ -18484,9 +17872,7 @@
     "category": "Zvučnici",
     "brand": "Lenovo",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/6468/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6468/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.3,
@@ -18503,9 +17889,7 @@
     "category": "Tastature",
     "brand": "Samsung",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/6475/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6475/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.26,
@@ -18522,9 +17906,7 @@
     "category": "Monitori",
     "brand": "Razer",
     "rating": 4.2,
-    "images": [
-      "https://picsum.photos/seed/6482/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6482/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 1.53,
@@ -18561,9 +17943,7 @@
     "category": "Ruteri",
     "brand": "Logitech",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/6496/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6496/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.75,
@@ -18600,9 +17980,7 @@
     "category": "Štampači",
     "brand": "TP-Link",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/6510/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6510/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 0.13,
@@ -18660,9 +18038,7 @@
     "category": "Slušalice",
     "brand": "ASUS",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/6531/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6531/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.84,
@@ -18700,9 +18076,7 @@
     "category": "Monitori",
     "brand": "ASUS",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6545/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6545/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 2.86,
@@ -18740,9 +18114,7 @@
     "category": "Štampači",
     "brand": "HP",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/6559/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6559/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 3.23,
@@ -18822,9 +18194,7 @@
     "category": "Slušalice",
     "brand": "Sony",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6587/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6587/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.69,
@@ -18901,9 +18271,7 @@
     "category": "Monitori",
     "brand": "TP-Link",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6615/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6615/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 1.12,
@@ -18941,9 +18309,7 @@
     "category": "Štampači",
     "brand": "Lenovo",
     "rating": 4.4,
-    "images": [
-      "https://picsum.photos/seed/6629/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6629/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.56,
@@ -18981,9 +18347,7 @@
     "category": "Štampači",
     "brand": "Dell",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6643/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6643/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.77,
@@ -19042,9 +18406,7 @@
     "category": "Miševi",
     "brand": "Dell",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6664/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6664/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.63,
@@ -19061,9 +18423,7 @@
     "category": "Štampači",
     "brand": "Sony",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6671/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6671/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.5,
@@ -19122,9 +18482,7 @@
     "category": "Štampači",
     "brand": "Dell",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6692/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6692/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 2.37,
@@ -19222,9 +18580,7 @@
     "category": "Štampači",
     "brand": "Razer",
     "rating": 4.0,
-    "images": [
-      "https://picsum.photos/seed/6727/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6727/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.92,
@@ -19261,9 +18617,7 @@
     "category": "Web kamere",
     "brand": "Canon",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6741/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6741/1024/768"],
     "attributes": {
       "color": "Tamno siva",
       "weight_kg": 3.79,
@@ -19280,9 +18634,7 @@
     "category": "Tastature",
     "brand": "Canon",
     "rating": 4.6,
-    "images": [
-      "https://picsum.photos/seed/6748/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6748/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.58,
@@ -19422,9 +18774,7 @@
     "category": "Tastature",
     "brand": "TP-Link",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/6797/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6797/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.45,
@@ -19521,9 +18871,7 @@
     "category": "Zvučnici",
     "brand": "TP-Link",
     "rating": 5.0,
-    "images": [
-      "https://picsum.photos/seed/6832/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6832/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 2.24,
@@ -19561,9 +18909,7 @@
     "category": "Miševi",
     "brand": "Razer",
     "rating": 4.7,
-    "images": [
-      "https://picsum.photos/seed/6846/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6846/1024/768"],
     "attributes": {
       "color": "Srebrna",
       "weight_kg": 0.85,
@@ -19580,9 +18926,7 @@
     "category": "Monitori",
     "brand": "Sony",
     "rating": 4.9,
-    "images": [
-      "https://picsum.photos/seed/6853/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6853/1024/768"],
     "attributes": {
       "color": "Crna",
       "weight_kg": 1.26,
@@ -19846,9 +19190,7 @@
     "category": "Zvučnici",
     "brand": "Logitech",
     "rating": 4.8,
-    "images": [
-      "https://picsum.photos/seed/6944/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6944/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 1.23,
@@ -19885,9 +19227,7 @@
     "category": "Slušalice",
     "brand": "Samsung",
     "rating": 3.9,
-    "images": [
-      "https://picsum.photos/seed/6958/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6958/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.45,
@@ -19925,9 +19265,7 @@
     "category": "Slušalice",
     "brand": "Canon",
     "rating": 4.5,
-    "images": [
-      "https://picsum.photos/seed/6972/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6972/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 2.87,
@@ -19944,9 +19282,7 @@
     "category": "Ruteri",
     "brand": "Sony",
     "rating": 4.3,
-    "images": [
-      "https://picsum.photos/seed/6979/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6979/1024/768"],
     "attributes": {
       "color": "Bela",
       "weight_kg": 0.83,
@@ -19963,9 +19299,7 @@
     "category": "Štampači",
     "brand": "Logitech",
     "rating": 4.1,
-    "images": [
-      "https://picsum.photos/seed/6986/1024/768"
-    ],
+    "images": ["https://picsum.photos/seed/6986/1024/768"],
     "attributes": {
       "color": "Plava",
       "weight_kg": 0.84,

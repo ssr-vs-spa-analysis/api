@@ -1,6 +1,5 @@
 import { Prisma } from "@prisma/client";
 import { readFile } from "node:fs/promises";
-import path from "node:path";
 import { v7 as uuidv7 } from "uuid";
 
 import { db } from "./db.js";
@@ -9,6 +8,7 @@ import type {
   SearchProductsQuery,
   SeedProductsBody,
 } from "./schema.js";
+import { resolveProjectFile } from "./utils/project-paths.js";
 import {
   buildCategoryImagePool,
   getRandomImagesForCategory,
@@ -33,7 +33,7 @@ type SeedProductSource = {
 };
 
 const loadSeedProducts = async (): Promise<SeedProductSource[]> => {
-  const seedFilePath = path.resolve(process.cwd(), "seed_products.json");
+  const seedFilePath = await resolveProjectFile("seed_products.json");
   const seedFileContent = await readFile(seedFilePath, "utf-8");
   const parsed: unknown = JSON.parse(seedFileContent);
 

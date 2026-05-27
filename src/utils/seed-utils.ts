@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises";
-import path from "node:path";
+
+import { resolveProjectFile } from "./project-paths.js";
 
 export type CategoryImagePool = Record<string, string[]>;
 
@@ -46,22 +47,23 @@ export const buildCategoryImagePool = (
 };
 
 export const loadCategoryImages = async (): Promise<CategoryImagePool> => {
-  const categoryImagesPath = path.resolve(
-    process.cwd(),
-    "category_images.json",
-  );
   let parsed: unknown;
 
   try {
+    const categoryImagesPath = await resolveProjectFile("category_images.json");
     const categoryImagesContent = await readFile(categoryImagesPath, "utf-8");
     parsed = JSON.parse(categoryImagesContent);
   } catch (error) {
-    if (
+    const isMissingFile =
+      error instanceof Error &&
+      error.message.includes('Could not find "category_images.json"');
+    const isEnoent =
       typeof error === "object" &&
       error !== null &&
       "code" in error &&
-      error.code === "ENOENT"
-    ) {
+      error.code === "ENOENT";
+
+    if (isMissingFile || isEnoent) {
       return {};
     }
 

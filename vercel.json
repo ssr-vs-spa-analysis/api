@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "buildCommand": "npm run vercel-build",
+  "functions": {
+    "api/index.ts": {
+      "memory": 1024,
+      "maxDuration": 60,
+      "includeFiles": "{seed_products.json,category_images.json}"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api" },
+    { "source": "/health", "destination": "/api" }
+  ]
+}

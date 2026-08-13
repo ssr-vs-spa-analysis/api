@@ -1,52 +1,52 @@
 {
   "Eksterni diskovi": [
-    "https://plus.unsplash.com/premium_photo-1723651280322-513220315969?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1674303440321-707bb3047ec8?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1613070541337-b40942ee6527?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/eksterni-diskovi/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/eksterni-diskovi/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/eksterni-diskovi/3.jpg"
   ],
   "Laptopovi": [
-    "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://plus.unsplash.com/premium_photo-1681302427948-2fd0eca629b1?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/laptopovi/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/laptopovi/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/laptopovi/3.jpg"
   ],
   "Miševi": [
-    "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1527814050087-3793815479db?q=80&w=1028&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1613141411244-0e4ac259d217?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/misevi/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/misevi/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/misevi/3.jpg"
   ],
   "Monitori": [
-    "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1666771410140-0573b232426e?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1614624533048-a9c2f9cb5a96?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/monitori/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/monitori/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/monitori/3.jpg"
   ],
   "Ruteri": [
-    "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1554098415-4052459dc340?q=80&w=1526&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://plus.unsplash.com/premium_photo-1671017801457-5d8e846d16b6?q=80&w=716&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/ruteri/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/ruteri/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/ruteri/3.jpg"
   ],
   "Slušalice": [
-    "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?q=80&w=1113&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1628202926206-c63a34b1618f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/slusalice/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/slusalice/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/slusalice/3.jpg"
   ],
   "Štampači": [
-    "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1721830834983-f111ad63dbf4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1650094980833-7373de26feb6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/stampaci/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/stampaci/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/stampaci/3.jpg"
   ],
   "Tastature": [
-    "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1541140532154-b024d705b90a?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/tastature/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/tastature/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/tastature/3.jpg"
   ],
   "Web kamere": [
-    "https://images.unsplash.com/photo-1623949556303-b0d17d198863?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1622750342107-4b60e2704157?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1611682158949-ccd7db9ce721?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/web-kamere/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/web-kamere/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/web-kamere/3.jpg"
   ],
   "Zvučnici": [
-    "https://plus.unsplash.com/premium_photo-1683141496040-eeef9702269f?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://plus.unsplash.com/premium_photo-1677159499898-b061fb5bd2d7?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/zvucnici/1.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/zvucnici/2.jpg",
+    "https://benchmark-ssr-spa-analysis-images.s3.eu-central-1.amazonaws.com/images/zvucnici/3.jpg"
   ]
 }

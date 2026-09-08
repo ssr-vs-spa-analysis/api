@@ -97,3 +97,15 @@ Errors follow:
 ```json
 { "error": "Short description", "details": [] }
 ```
+
+## Seed image URLs
+
+`category_images.json` and `seed_products.json` now use public **S3** object URLs. Seeding prefers `category_images.json` by category, then falls back to each product’s `images` in `seed_products.json`.
+
+## Production deploy
+
+Full EC2 + Docker Compose + Caddy runbook lives in the companion repo:
+
+[ssr-vs-spa-analysis/infra](https://github.com/ssr-vs-spa-analysis/infra)
+
+The API `Dockerfile` copies `prisma/` before `npm install` so `postinstall` / `prisma generate` succeeds during image build.

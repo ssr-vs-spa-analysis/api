@@ -169,7 +169,7 @@ export const getProductById = async (id: string) => {
       category: { equals: product.category, mode: "insensitive" },
     },
     orderBy: [{ rating: "desc" }, { createdAt: "desc" }],
-    take: 5,
+    take: 12,
   });
 
   return {
